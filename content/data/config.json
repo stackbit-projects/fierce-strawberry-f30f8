@@ -86,6 +86,15 @@
                 "icon": "instagram"
             },
             {
+                "label": "",
+                "altText": "Facebook",
+                "url": "/",
+                "showIcon": true,
+                "icon": "facebook",
+                "style": "link",
+                "elementId": ""
+            },
+            {
                 "type": "Social",
                 "altText": "Facebook",
                 "url": "/",
