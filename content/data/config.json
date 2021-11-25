@@ -24,12 +24,6 @@
                 "label": "FAQ",
                 "url": "/faq",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "altText": "Blog",
-                "url": "/blog"
             }
         ],
         "secondaryLinks": [],
