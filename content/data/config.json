@@ -28,7 +28,8 @@
                 }
             },
             "type": "ImageBlock"
-        }
+        },
+        "title": "my website"
     },
     "footer": {
         "colors": "colors-c",
