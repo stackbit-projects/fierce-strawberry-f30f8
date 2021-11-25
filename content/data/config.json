@@ -12,12 +12,6 @@
                 "label": "Home",
                 "url": "/",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "Careers",
-                "url": "/careers",
-                "altText": ""
             }
         ],
         "secondaryLinks": [],
