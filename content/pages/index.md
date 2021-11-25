@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-a
+    colors: colors-i
     title: 'Love where you work, because work loves you'
     text: >
       One platform, one community, getting to the bottom line of everything
@@ -135,7 +135,7 @@ sections:
         caption: ZCOOL
     spacing: 3
     columns: 7
-    aspectRatio: 'auto'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
